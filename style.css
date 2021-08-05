@@ -38,19 +38,21 @@
     padding: 15px;
 }
 .size1 {
-    position: center;
+    
     width: 55%;
+    height: auto;
     margin-top: 35px;
 }
 .size2{
-    image-orientation: center;
+    
     width: 40.5%;
+    height: auto;
     margin: auto;
  
 }
 .size3{
-    image-orientation: center;
     width: 47%;
+    height: auto;
     margin: auto;
 }
 .text1, .text2, .text3{
